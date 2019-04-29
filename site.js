@@ -1,8 +1,8 @@
 /**
  * @author Gustavo
  */
-var onde = window.location.pathname;
-alert (onde)
+//var onde = window.location.pathname;
+//alert (onde)
 function abrirSite() {
     let Entrada
     Entrada = parseInt(frmAbrir.txtEntrada.value)
